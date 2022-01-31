@@ -1,6 +1,6 @@
 {
   "name": "@chakra-ui/accordion",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "A simple and accessible accordion component for React & Chakra UI",
   "keywords": [
     "react",
@@ -42,7 +42,7 @@
     "@chakra-ui/hooks": "1.8.0",
     "@chakra-ui/icon": "2.0.1",
     "@chakra-ui/react-utils": "1.2.1",
-    "@chakra-ui/transition": "1.4.3",
+    "@chakra-ui/transition": "1.4.4",
     "@chakra-ui/utils": "1.10.0"
   },
   "devDependencies": {
